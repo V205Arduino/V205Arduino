@@ -5,7 +5,10 @@
 - 💞️ I’m looking to collaborate on nothing yet. Maybe something in the future.
 - 📫 How to reach me Coming soon. Please wait.
 
-**Other Profiles**
+**Other Profiles:**
+Arduino forum
+Hackster.io
+
 
 
 <!---
