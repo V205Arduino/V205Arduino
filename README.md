@@ -5,9 +5,20 @@
 - 💞️ I’m looking to collaborate on nothing yet. Maybe something in the future.
 - 📫 How to reach me Coming soon. Please wait.
 
+**Skills:**
+- Arduino
+- TinkerCAD
+- GitHub
+
+  
+
 **Other Profiles:**
-Arduino forum
-Hackster.io
+- Arduino forum
+- Hackster.io
+- Github
+  
+
+  
 
 
 
