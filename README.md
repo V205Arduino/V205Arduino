@@ -20,7 +20,7 @@
 
   
 
-<img src="{https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=black}" />
+
 
 <!---
 V205Github/V205Github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
