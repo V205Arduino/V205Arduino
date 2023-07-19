@@ -19,8 +19,8 @@
   
 
   
- ![image]({https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white})
 
+<img src="{https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white}" />
 
 <!---
 V205Github/V205Github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
