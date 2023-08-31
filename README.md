@@ -18,7 +18,7 @@
 - Github
   
 
-  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=V205Arduino)](https://git.io/streak-stats)
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=V205Arduino)](https://git.io/streak-stats)
 [![V205Arduino's GitHub stats](https://github-readme-stats.vercel.app/api?username=V205Arduino)](https://github.com/anuraghazra/github-readme-stats)
