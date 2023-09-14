@@ -19,11 +19,13 @@
   
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V205Arduino&theme=default) 
+
 
 ![V205Arduino's GitHub stats](https://github-readme-stats.vercel.app/api?username=V205Arduino&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=V205Arduino)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V205Arduino&theme=default) 
 
 [![V205Arduino's GitHub stats](https://github-readme-stats.vercel.app/api?username=V205Arduino)](https://github.com/anuraghazra/github-readme-stats)
 
