@@ -3,12 +3,14 @@
 - 👀 I’m interested in [Arduino](https://www.arduino.cc), Programming, reading, robots, gardening, [Github](https://www.github.com)), and more.
 - 🌱 I’m currently learning Arduino and various programing languages.
 - 💞️ I’m looking to collaborate on nothing yet. Maybe something in the future.
-- 📫 How to reach me Coming soon. Please wait.
+- 📫 How to reach me? I won't put any contact information here. If you really want to contact me, hunt for it. 
 
 **Skills:**
 - Arduino
-- TinkerCAD
 - GitHub
+- Linux
+- KiCAD
+
 
   
 
