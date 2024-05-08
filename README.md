@@ -1,4 +1,9 @@
 **V205Github**
+
+>To think, is to live.
+
+
+
 - 👋 Hi, I’m @V205Github
 - 👀 I’m interested in [Arduino](https://www.arduino.cc), Programming, reading, robots, gardening, [Github](https://www.github.com)), and more.
 - 🌱 I’m currently learning Arduino and various programing languages.
@@ -7,8 +12,10 @@
 
 **Skills:**
 - Arduino
+- Slack
+- TypeScript
 - GitHub
-- Linux
+- Basic Linux
 - KiCAD
 
 
