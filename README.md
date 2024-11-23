@@ -1,33 +1,16 @@
 **V205Github**
 
->To think, is to live.
->
 ![](https://komarev.com/ghpvc/?username=V205Arduino)
 
 
 - 👋 Hi, I’m @V205Github
-- 👀 I’m interested in [Arduino](https://www.arduino.cc), Programming, reading, robots, gardening, [Github](https://www.github.com)), and more.
-- 🌱 I’m currently learning Arduino and various programing languages.
-- 💞️ I’m looking to collaborate on nothing yet. Maybe something in the future.
-- 📫 How to reach me? I won't put any contact information here. If you really want to contact me, hunt for it. 
+- 👀 I’m interested in all things computers!
+- 🌱 I’m currently learning about life and... guess what? Computers!
+- 💞️ I’m looking to collaborate on stuff I guess,  
 
-**Skills:**
-- Arduino
-- Slack
-- TypeScript
-- GitHub
-- Basic Linux
-- KiCAD
 
 
   
-
-**Other Profiles:**
-- Arduino forum
-- Hackster.io
-- Github
-  
-
 
 
 
